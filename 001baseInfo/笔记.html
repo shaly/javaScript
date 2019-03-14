@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<div >
+    <div id="box" title="模块化的进化过程">
+            <div title="1.全局function模式：">
+                *编码：全局变量/函数
+                *问题：污染全局命名空间，容易引起命名冲突/数据不安全
+            </div>
+            <div title="2.namespace模式：">
+                *编码：将数据/行为封装到对象中
+                *解决：命名冲突（检索了全局变量）
+                *问题：数据不安全（外包可以直接修改模块内部的数据）
+            </div>
+            <div title="3.IIFE模式/增强：">
+                *IIFE：立即调用函数表达式-->你们函数自调用
+                *编码：将数据和行为封装到一个函数内部，通过给window添加属性来向外暴露接口
+                *引入依赖：通过函数形参来引入依赖模块
+            </div>
+
+    </div>
+    1.
+
+</div>
+</body>
+</html>

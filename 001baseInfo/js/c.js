@@ -1,6 +1,6 @@
 
-var a=789,d="d JavaScript";
-function t1() {
+    var a=789,d="d CSS";
+function test() {
     console.log("c-test-function");
 
 }

@@ -1,7 +1,7 @@
 
-var a,c="c JavaScript";
+var a,c="c hello html";
 
-function t1() {
+function test() {
     console.log("b-test-function");
 
 }

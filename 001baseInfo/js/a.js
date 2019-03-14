@@ -1,7 +1,7 @@
 
-var a=123,b="b JavaScript";
+var a=123,b="b-Hi JavaScript";
 
-function t1() {
+function test() {
     console.log("a-test-function");
 
 }
