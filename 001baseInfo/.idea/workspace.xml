@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48ad527e-bf8d-417c-899b-e0b3a9443d13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/d_chapter01/function/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d_chapter01/function/js/course.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d_chapter01/function/js/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d_chapter01/function/js/reg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/笔记.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/a.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/a.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/b.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/c.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaScript/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaScript/.idea/javaScript.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaScript/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaScript/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaScript/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaScript/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaScript/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaScript/js/a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaScript/js/b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaScript/js/c.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/d_chapter01/function/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="184">
+              <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -132,6 +131,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -178,16 +178,15 @@
       <workItem from="1551427071234" duration="3919000" />
       <workItem from="1551664494499" duration="594000" />
       <workItem from="1552048257007" duration="779000" />
-      <workItem from="1552567433795" duration="1690000" />
+      <workItem from="1552567433795" duration="2124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6982000" />
+    <option name="totallyTimeSpent" value="7416000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="866" y="1" width="1058" height="1046" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20256917" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -284,8 +283,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/d_chapter01/function/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="184">
+          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
         </state>
       </provider>
     </entry>
