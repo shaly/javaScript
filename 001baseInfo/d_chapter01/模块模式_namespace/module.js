@@ -5,14 +5,14 @@
  *   问题：数据不安全（外部可以直接修改模块内部的数据）
 
 
+ //login,reg,forget都是函数，三种不同写法
  *   yourLogin命名空间的概念，我们把函数与变量锁在对象中
  *   yourLogin:命名空间的概念，取名的时候一定要有  私有前缀 + 模块名
  **/
-//jquery 这是一种绝佳的写代码的方式
+
 var yourLogin={
 
     name:"名字属性，你的Login",
-    age:12,
     init:function(){
       yourLogin.login();
       yourLogin.select();
