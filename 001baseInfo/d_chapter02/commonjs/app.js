@@ -1,7 +1,6 @@
 const module1=require("./module");
 console.log(module1);
 console.log(module1.username);
-console.log("**************************");
 //运行实例：
 //1.安装node的运行环境
 //2.在下方菜单中找到“Terminal”
@@ -14,9 +13,15 @@ console.log("**************************");
 function commonLoadFun(mod) {
     return require(mod);
 }
+console.log("commonLoadFun-module1**************************");
 const module1_1=commonLoadFun("./module");
 console.log(module1_1);
-console.log("**************************");
+console.log("commonLoadFun-module2**************************");
 const m2=commonLoadFun("./module2");
 console.log(m2());
-console.log("**************************");
+console.log("commonLoadFun-module3**************************");
+const m3=commonLoadFun("./module3");
+console.log(m3);
+//console.log(m3.returnAddress());
+console.log("commonLoadFun-module4**************************");
+
