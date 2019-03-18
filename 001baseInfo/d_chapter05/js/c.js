@@ -1,4 +1,10 @@
 //IIFE，Iimmediately invoked function expression即时函数(立即加载的匿名函数)，也叫闭包
+//********************************************************
+//描述：A模块
+//工程师：Jane
+//相关信息：xxxxx@qq.com qq:xxxx
+//依赖模块：GLOBAL.A , GLOBAL.B
+//********************************************************
 (function () {
     var a=789,b="Hi css";
     console.log("c--此时的GLOBAL.str1为为a所赋予------------------->"+GLOBAL.A.str1);
