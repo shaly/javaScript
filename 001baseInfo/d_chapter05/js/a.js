@@ -6,4 +6,19 @@
     GLOBAL.A={};//多加一层，防止不同文件变量名覆盖
     GLOBAL.A.str=a;
     GLOBAL.A.str1=a;
+
+    GLOBAL.A.FUN={};
+
+    GLOBAL.A.FUN.add=function () {
+        console.log("GLOBAL.A.FUN.add   function;")
+    }
+    GLOBAL.A.FUN.update=function () {
+        console.log("GLOBAL.A.FUN.update   function;")
+    }
+    GLOBAL.A.FUN.del=function () {
+        console.log("GLOBAL.A.FUN.del   function;")
+    }
+    GLOBAL.A.FUN.query=function () {
+        console.log("GLOBAL.A.FUN.query   function;")
+    }
 })()
