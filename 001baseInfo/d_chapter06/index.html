@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="box">我是一个div</div>
+
+
+<!--浏览器的加载顺序由上至下加载，先加载根html,再head和body并行加载
+dom元素会优先加载，
+js文件多线程异步加载，
+防止js加载时找不到dom元素（此时有可能dom元素正在加载中还未加载完毕），
+则将js的引入放在所有可能被引用到的dom对象下面，此时body就将script当做一个节点进行阻塞加载-->
+<script src="js/common.js"></script>
+<script src="js/a.js"></script>
+<script src="js/b.js"></script>
+<script src="js/c.js"></script>
+<script>
+    console.log(GLOBAL.A.str);
+    GLOBAL.A.FUN.query();
+</script>
+
+</body>
+
+</html>
