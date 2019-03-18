@@ -4,7 +4,8 @@
     console.log("c--此时的GLOBAL.str1为为a所赋予------------------->"+GLOBAL.A.str1);
     console.log("c--此时的GLOBAL.str2为为b所赋予------------------->"+GLOBAL.B.str2);
     console.log("c--此时的a为GLOBAL将赋予str3------------------->"+a);
-    GLOBAL.C={};
+    //GLOBAL.C={};
+    GLOBAL.namespaces("C");
     GLOBAL.C.str=a;
     GLOBAL.C.str3=a;
     console.log("c--此时的GLOBAL中str的值分别为------------------->"

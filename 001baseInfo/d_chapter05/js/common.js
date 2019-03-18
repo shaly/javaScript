@@ -12,8 +12,9 @@ GLOBAL.namespaces=function (str) {
         obj=obj[arr[i]];
     }
 }
+/*
 GLOBAL.namespaces("A");
 GLOBAL.namespaces("GLOBAL.A.XXX1.NAME");
 GLOBAL.namespaces("C");
 GLOBAL.namespaces("B.XXX2.NAME");
-console.log(GLOBAL);
+console.log(GLOBAL);*/
