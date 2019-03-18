@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48ad527e-bf8d-417c-899b-e0b3a9443d13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/d_chapter04/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d_chapter04/js/a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d_chapter04/js/b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d_chapter04/js/c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d_chapter01/IIFE模式(闭包)/module4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d_chapter01/IIFE模式(闭包)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/d_chapter01/IIFE模式(闭包)/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,37 +18,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d_chapter04/js/a.js">
+        <entry file="file://$PROJECT_DIR$/d_chapter01/IIFE模式(闭包)/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d_chapter04/js/b.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="65" lean-forward="true" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d_chapter04/js/c.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="483">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/d_chapter04/index.html">
+        <entry file="file://$PROJECT_DIR$/d_chapter01/IIFE模式(闭包)/module4.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="92">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -96,12 +76,13 @@
         <option value="$PROJECT_DIR$/d_chapter01/IIFE模式(闭包)/module.js" />
         <option value="$PROJECT_DIR$/d_chapter01/IIFE模式(闭包)/module2.js" />
         <option value="$PROJECT_DIR$/d_chapter01/模块模式_namespace/module.js" />
-        <option value="$PROJECT_DIR$/d_chapter01/IIFE模式(闭包)/index.html" />
         <option value="$PROJECT_DIR$/d_chapter01/IIFE模式(闭包)/module3.js" />
         <option value="$PROJECT_DIR$/d_chapter04/js/a.js" />
         <option value="$PROJECT_DIR$/d_chapter04/js/b.js" />
         <option value="$PROJECT_DIR$/d_chapter04/index.html" />
         <option value="$PROJECT_DIR$/d_chapter04/js/c.js" />
+        <option value="$PROJECT_DIR$/d_chapter01/IIFE模式(闭包)/index.html" />
+        <option value="$PROJECT_DIR$/d_chapter01/IIFE模式(闭包)/module4.js" />
       </list>
     </option>
   </component>
@@ -128,18 +109,13 @@
             <path>
               <item name="001baseInfo" type="b2602c69:ProjectViewProjectNode" />
               <item name="001baseInfo" type="462c0819:PsiDirectoryNode" />
-              <item name="d_chapter03" type="462c0819:PsiDirectoryNode" />
+              <item name="d_chapter01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="001baseInfo" type="b2602c69:ProjectViewProjectNode" />
               <item name="001baseInfo" type="462c0819:PsiDirectoryNode" />
-              <item name="d_chapter03" type="462c0819:PsiDirectoryNode" />
-              <item name="function" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="001baseInfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="001baseInfo" type="462c0819:PsiDirectoryNode" />
-              <item name="d_chapter04" type="462c0819:PsiDirectoryNode" />
+              <item name="d_chapter01" type="462c0819:PsiDirectoryNode" />
+              <item name="IIFE模式(闭包)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,8 +135,8 @@
       <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\d_chapter01" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\d_chapter04" />
       <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\d_chapter01\IIFE模式(闭包)" />
+      <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\d_chapter04" />
       <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo" />
       <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\d_chapter01\模块模式_namespace" />
       <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\d_chapter02\function\js" />
@@ -178,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/001baseInfo/d_chapter04/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -196,8 +172,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html (4)" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="Node.js.module.js" />
@@ -219,12 +195,12 @@
       <workItem from="1552048257007" duration="779000" />
       <workItem from="1552567433795" duration="5257000" />
       <workItem from="1552573015990" duration="8634000" />
-      <workItem from="1552911705291" duration="1885000" />
+      <workItem from="1552911705291" duration="3022000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21068000" />
+    <option name="totallyTimeSpent" value="22205000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="866" y="1" width="1058" height="1046" extended-state="0" />
@@ -414,13 +390,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d_chapter01/IIFE模式(闭包)/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/d_chapter01/IIFE模式(闭包)/module2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -475,8 +444,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/d_chapter04/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="345">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d_chapter01/IIFE模式(闭包)/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d_chapter01/IIFE模式(闭包)/module4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
         </state>
       </provider>
     </entry>
