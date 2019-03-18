@@ -20,3 +20,10 @@ exports.favorite=["山竹","麻阳甜橙","白开水","外星人","米饭","云�
 exports.returnAddress=function () {
     return "上海";
 }
+
+
+/**
+ * 导入其它js文件
+ */
+const m2=require("./module2");
+console.log("module3要去module2家，module2和module3打招呼：\n"+m2())

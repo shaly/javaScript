@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48ad527e-bf8d-417c-899b-e0b3a9443d13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/d_chapter02/commonjs/module3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d_chapter02/commonjs/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/d_chapter02/commonjs/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d_chapter02/commonjs/module2.js" beforeDir="false" afterPath="$PROJECT_DIR$/d_chapter02/commonjs/module2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d_chapter02/commonjs/module3.js" beforeDir="false" afterPath="$PROJECT_DIR$/d_chapter02/commonjs/module3.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/d_chapter02/commonjs/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+            <state>
+              <caret column="21" selection-start-column="14" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -29,8 +28,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/d_chapter02/commonjs/module3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            <state relative-caret-position="394">
+              <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/d_chapter02/commonjs/module2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -85,12 +93,12 @@
         <option value="$PROJECT_DIR$/d_chapter01/IIFE模式(闭包)/module4.js" />
         <option value="$PROJECT_DIR$/d_chapter05/js/common.js" />
         <option value="$PROJECT_DIR$/d_chapter05/index.html" />
-        <option value="$PROJECT_DIR$/d_chapter02/commonjs/module2.js" />
         <option value="$PROJECT_DIR$/d_chapter02/commonjs/module.js" />
         <option value="$PROJECT_DIR$/d_chapter05/js/a.js" />
         <option value="$PROJECT_DIR$/d_chapter05/js/b.js" />
         <option value="$PROJECT_DIR$/d_chapter05/js/c.js" />
         <option value="$PROJECT_DIR$/d_chapter02/commonjs/app.js" />
+        <option value="$PROJECT_DIR$/d_chapter02/commonjs/module2.js" />
         <option value="$PROJECT_DIR$/d_chapter02/commonjs/module3.js" />
       </list>
     </option>
@@ -221,12 +229,12 @@
       <workItem from="1552048257007" duration="779000" />
       <workItem from="1552567433795" duration="5257000" />
       <workItem from="1552573015990" duration="8634000" />
-      <workItem from="1552911705291" duration="10242000" />
+      <workItem from="1552911705291" duration="10581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29425000" />
+    <option name="totallyTimeSpent" value="29764000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -239,7 +247,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="866" y="1" width="1058" height="1046" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20256917" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -548,22 +555,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/d_chapter02/commonjs/module2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="7" selection-end-column="14" />
+        <state relative-caret-position="69">
+          <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/d_chapter02/commonjs/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        <state>
+          <caret column="21" selection-start-column="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/d_chapter02/commonjs/module3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="394">
+          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
         </state>
       </provider>
     </entry>
