@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48ad527e-bf8d-417c-899b-e0b3a9443d13" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/d_chapter06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/d_chapter06/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d_chapter06/js/a.js" beforeDir="false" afterPath="$PROJECT_DIR$/d_chapter06/js/a.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d_chapter06/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/d_chapter06/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_commonJS01/commonjs/module4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e_commonJS01/commonjs/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/e_commonJS01/commonjs/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e_commonJS01/commonjs/module3.js" beforeDir="false" afterPath="$PROJECT_DIR$/e_commonJS01/commonjs/module3.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,17 +21,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/d_chapter06/js/a.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="675">
               <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/d_chapter06/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="371">
-              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/module3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="2" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/module4.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -38,8 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/d_chapter06/js/common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+            <state relative-caret-position="1518">
+              <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -70,36 +98,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
               <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d_chapter05/js/b.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" selection-start-line="1" selection-end-line="6" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d_chapter05/js/c.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d_chapter05/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -176,11 +174,12 @@
         <option value="$PROJECT_DIR$/笔记.html" />
         <option value="$PROJECT_DIR$/e_commonJS01/commonjs/module.js" />
         <option value="$PROJECT_DIR$/e_commonJS01/commonjs/module2.js" />
-        <option value="$PROJECT_DIR$/e_commonJS01/commonjs/app.js" />
-        <option value="$PROJECT_DIR$/e_commonJS01/commonjs/module3.js" />
         <option value="$PROJECT_DIR$/d_chapter06/js/a.js" />
         <option value="$PROJECT_DIR$/d_chapter06/js/common.js" />
         <option value="$PROJECT_DIR$/d_chapter06/index.html" />
+        <option value="$PROJECT_DIR$/e_commonJS01/commonjs/module3.js" />
+        <option value="$PROJECT_DIR$/e_commonJS01/commonjs/module4.js" />
+        <option value="$PROJECT_DIR$/e_commonJS01/commonjs/app.js" />
       </list>
     </option>
   </component>
@@ -240,15 +239,15 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo" />
+      <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\d_chapter01" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\e_commonJS01\commonjs" />
       <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo" />
       <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\d_chapter02\commonjs" />
       <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\d_chapter05\js" />
-      <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\d_chapter01" />
-      <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\d_chapter01\IIFE模式(闭包)" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo" />
       <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\d_chapter01" />
     </key>
   </component>
@@ -308,12 +307,12 @@
       <workItem from="1552911705291" duration="11530000" />
       <workItem from="1553086246531" duration="591000" />
       <workItem from="1553600455182" duration="1152000" />
-      <workItem from="1553601628608" duration="8224000" />
+      <workItem from="1553601628608" duration="9067000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40680000" />
+    <option name="totallyTimeSpent" value="41523000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -326,9 +325,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="0" width="1058" height="1046" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28359684" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28359684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -340,7 +338,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32993197" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32993197" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32993197" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -351,7 +349,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/d_chapter02/function/js/reg.js" />
     <entry file="file://$PROJECT_DIR$/d_chapter02/function/js/course.js" />
     <entry file="file://$PROJECT_DIR$/d_chapter02/function/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -580,24 +577,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/module2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="1" lean-forward="true" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/module3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -663,27 +646,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/d_chapter06/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/d_chapter06/js/a.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="675">
           <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/d_chapter06/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        <state relative-caret-position="1518">
+          <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d_chapter06/index.html">
+    <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/module3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        <state relative-caret-position="23">
+          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/module4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
         </state>
       </provider>
     </entry>
