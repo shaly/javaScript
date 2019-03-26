@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/d_chapter06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/d_chapter06/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/d_chapter06/js/a.js" beforeDir="false" afterPath="$PROJECT_DIR$/d_chapter06/js/a.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/d_chapter06/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/d_chapter06/js/common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e_commonJS01/commonjs/module3.js" beforeDir="false" afterPath="$PROJECT_DIR$/e_commonJS01/commonjs/module3.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/d_chapter06/js/a.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+            <state relative-caret-position="330">
+              <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -30,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/d_chapter06/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+            <state relative-caret-position="371">
+              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -39,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/d_chapter06/js/common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="330">
+              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -179,8 +178,8 @@
         <option value="$PROJECT_DIR$/e_commonJS01/commonjs/module2.js" />
         <option value="$PROJECT_DIR$/e_commonJS01/commonjs/app.js" />
         <option value="$PROJECT_DIR$/e_commonJS01/commonjs/module3.js" />
-        <option value="$PROJECT_DIR$/d_chapter06/js/common.js" />
         <option value="$PROJECT_DIR$/d_chapter06/js/a.js" />
+        <option value="$PROJECT_DIR$/d_chapter06/js/common.js" />
         <option value="$PROJECT_DIR$/d_chapter06/index.html" />
       </list>
     </option>
@@ -309,12 +308,12 @@
       <workItem from="1552911705291" duration="11530000" />
       <workItem from="1553086246531" duration="591000" />
       <workItem from="1553600455182" duration="1152000" />
-      <workItem from="1553601628608" duration="7437000" />
+      <workItem from="1553601628608" duration="8224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39893000" />
+    <option name="totallyTimeSpent" value="40680000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -664,27 +663,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/d_chapter06/js/a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/d_chapter06/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="330">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d_chapter06/js/a.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/d_chapter06/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+        <state relative-caret-position="371">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
         </state>
       </provider>
     </entry>

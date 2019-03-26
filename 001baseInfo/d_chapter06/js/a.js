@@ -34,7 +34,7 @@
     }
 
     GLOBAL.A.init=function () {
-        var boxDom=document.getElementById("box");
+        var boxDom=GLOBAL.dom.id("box");
         console.log("***1"+boxDom);
         console.log("***2"+boxDom.innerHTML);
     }

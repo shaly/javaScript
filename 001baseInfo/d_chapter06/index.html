@@ -21,8 +21,13 @@ js文件多线程异步加载，
 <script>
     GLOBAL.dom.ready(function () {//加上此方法可以解决脚本放在dom元素前后都不会报错（找不到）
         console.log(GLOBAL.A.str);
+
         GLOBAL.A.FUN.query();
         GLOBAL.A.init();
+
+        GLOBAL.event.on("box","click",function () {
+            alert(this.innerHTML);
+        })
     });
 </script>
 
