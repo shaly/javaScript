@@ -12,9 +12,46 @@ GLOBAL.namespaces=function (str) {
         obj=obj[arr[i]];
     }
 }
-/*
-GLOBAL.namespaces("A");
-GLOBAL.namespaces("GLOBAL.A.XXX1.NAME");
-GLOBAL.namespaces("C");
-GLOBAL.namespaces("B.XXX2.NAME");
-console.log(GLOBAL);*/
+
+GLOBAL.namespaces("dom");
+
+GLOBAL.dom.ready=function (fn) {
+    if (document.addEventListener) {//兼容IE
+        document.addEventListener("DOMContentLoaded", function () {
+            //注销时间，避免反复触发
+            document.removeEventListener("DOMContentLoaded", arguments.callee, false);
+            fn();//调用参数函数
+        }, false);
+    } else if(document.attachEvent){//兼容IE
+        IEContentLoaded(window, fn);
+    }
+
+    function IEContentLoaded(w,fn) {
+        var d=w.document,done=false;
+        //only fire once
+        init=function () {
+            if(!done){
+                done=true;
+                fn();
+            }
+        };
+        //polling for no errors
+        (function () {
+            try{
+                d.documentElement.doScroll("left");
+            }catch (e) {
+                setTimeout(arguments.callee,50);
+                return;
+            }
+        })();
+        //trying to always fire before onload
+        d.onreadystatechange=function () {
+            if(d.readyState=='complete'){
+                d.onreadystatechange=null;
+                init();
+            }
+        }
+    }
+
+
+}
