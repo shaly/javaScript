@@ -17,7 +17,7 @@ dom元素会优先加载，
 js文件多线程异步加载，
 防止js加载时找不到dom元素（此时有可能dom元素正在加载中还未加载完毕），
 则将js的引入放在所有可能被引用到的dom对象下面，此时body就将script当做一个节点进行阻塞加载-->
-
+<!--CSS放页头(body前面)，脚本javaScript放页尾(body尾部)-->
 <script>
     GLOBAL.dom.ready(function () {//加上此方法可以解决脚本放在dom元素前后都不会报错（找不到）
         console.log(GLOBAL.A.str);

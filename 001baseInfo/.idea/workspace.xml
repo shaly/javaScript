@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48ad527e-bf8d-417c-899b-e0b3a9443d13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/e_commonJS01/commonjs/module4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e_commonJS01/commonjs/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/e_commonJS01/commonjs/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e_commonJS01/commonjs/module3.js" beforeDir="false" afterPath="$PROJECT_DIR$/e_commonJS01/commonjs/module3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d_chapter06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/d_chapter06/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,20 +24,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/d_chapter06/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+            <state relative-caret-position="322">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="115">
+              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -176,10 +173,10 @@
         <option value="$PROJECT_DIR$/e_commonJS01/commonjs/module2.js" />
         <option value="$PROJECT_DIR$/d_chapter06/js/a.js" />
         <option value="$PROJECT_DIR$/d_chapter06/js/common.js" />
-        <option value="$PROJECT_DIR$/d_chapter06/index.html" />
         <option value="$PROJECT_DIR$/e_commonJS01/commonjs/module3.js" />
         <option value="$PROJECT_DIR$/e_commonJS01/commonjs/module4.js" />
         <option value="$PROJECT_DIR$/e_commonJS01/commonjs/app.js" />
+        <option value="$PROJECT_DIR$/d_chapter06/index.html" />
       </list>
     </option>
   </component>
@@ -307,12 +304,12 @@
       <workItem from="1552911705291" duration="11530000" />
       <workItem from="1553086246531" duration="591000" />
       <workItem from="1553600455182" duration="1152000" />
-      <workItem from="1553601628608" duration="9067000" />
+      <workItem from="1553601628608" duration="9364000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41523000" />
+    <option name="totallyTimeSpent" value="41820000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -325,8 +322,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="0" width="1058" height="1046" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28359684" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28359684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -338,7 +336,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32993197" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32993197" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -646,20 +644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d_chapter06/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d_chapter06/js/a.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/d_chapter06/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1518">
@@ -686,8 +670,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="115">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d_chapter06/js/a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d_chapter06/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
         </state>
       </provider>
     </entry>
