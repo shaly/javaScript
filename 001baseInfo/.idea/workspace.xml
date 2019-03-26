@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48ad527e-bf8d-417c-899b-e0b3a9443d13" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/笔记.html" beforeDir="false" afterPath="$PROJECT_DIR$/笔记.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e_commonJS01/commonjs/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/e_commonJS01/commonjs/module.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/module.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            <state relative-caret-position="138">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -42,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/笔记.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="61" column="67" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
+            <state relative-caret-position="690">
+              <caret line="58" column="29" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -109,10 +109,10 @@
         <option value="$PROJECT_DIR$/d_chapter02/commonjs/module3.js" />
         <option value="$PROJECT_DIR$/d_chapter06/js/a.js" />
         <option value="$PROJECT_DIR$/d_chapter06/index.html" />
-        <option value="$PROJECT_DIR$/e_commonJS01/commonjs/module.js" />
         <option value="$PROJECT_DIR$/e_commonJS01/commonjs/app.js" />
         <option value="$PROJECT_DIR$/e_commonJS01/commonjs/package.json" />
         <option value="$PROJECT_DIR$/笔记.html" />
+        <option value="$PROJECT_DIR$/e_commonJS01/commonjs/module.js" />
       </list>
     </option>
   </component>
@@ -229,12 +229,12 @@
       <workItem from="1552911705291" duration="11530000" />
       <workItem from="1553086246531" duration="591000" />
       <workItem from="1553600455182" duration="1152000" />
-      <workItem from="1553601628608" duration="3436000" />
+      <workItem from="1553601628608" duration="4313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35892000" />
+    <option name="totallyTimeSpent" value="36769000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -249,7 +249,7 @@
     <frame x="2" y="0" width="1058" height="1046" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28359684" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28359684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -261,7 +261,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32993197" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32993197" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32993197" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -576,13 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -592,8 +585,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/笔记.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="61" column="67" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
+        <state relative-caret-position="690">
+          <caret line="58" column="29" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>
