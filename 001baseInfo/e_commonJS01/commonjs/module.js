@@ -1,0 +1,1 @@
+module.exports="Jane 测试";
