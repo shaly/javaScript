@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48ad527e-bf8d-417c-899b-e0b3a9443d13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/e_commonJS01/commonjs/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e_commonJS01/commonjs/module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e_commonJS01/commonjs/module2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e_commonJS01/commonjs/module3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e_commonJS01/commonjs/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/笔记.html" beforeDir="false" afterPath="$PROJECT_DIR$/笔记.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -31,6 +25,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="23">
@@ -42,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/笔记.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="36" column="56" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
+            <state relative-caret-position="414">
+              <caret line="61" column="67" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -108,6 +111,7 @@
         <option value="$PROJECT_DIR$/d_chapter06/index.html" />
         <option value="$PROJECT_DIR$/e_commonJS01/commonjs/module.js" />
         <option value="$PROJECT_DIR$/e_commonJS01/commonjs/app.js" />
+        <option value="$PROJECT_DIR$/e_commonJS01/commonjs/package.json" />
         <option value="$PROJECT_DIR$/笔记.html" />
       </list>
     </option>
@@ -225,12 +229,12 @@
       <workItem from="1552911705291" duration="11530000" />
       <workItem from="1553086246531" duration="591000" />
       <workItem from="1553600455182" duration="1152000" />
-      <workItem from="1553601628608" duration="2707000" />
+      <workItem from="1553601628608" duration="3436000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35163000" />
+    <option name="totallyTimeSpent" value="35892000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -565,8 +569,12 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/module.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -575,17 +583,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/app.js">
+    <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        <state>
+          <caret selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/笔记.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="36" column="56" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
+        <state relative-caret-position="414">
+          <caret line="61" column="67" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
         </state>
       </provider>
     </entry>

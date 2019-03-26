@@ -35,6 +35,32 @@
         2.创建package.json文件:npm init(默认可以先一路回车常见package.json文件。之后再进行修改)
         3.创建module.js和app.js文件。通过module.exports=value的方式暴露和require的方式引用进行简单演示
             在下方Terminal窗口打开到app.js文件的路径，然后输入node app进行启动
+        4.启动方式2
+            {
+                "name": "commonjs",
+                "version": "1.0.0",
+                "description": "",
+                "main": "module.js",
+                "scripts": {
+                "test": "echo \"Error: no test specified\" && exit 1"
+                },
+                "author": "",
+                "license": "ISC"
+            }
+            package.json中的scripts里面的属性名可以修改，属性值即可以为执行的代码，如修改为
+            {
+                "name": "commonjs",
+                "version": "1.0.0",
+                "description": "",
+                "main": "module.js",
+                "scripts": {
+                "start": " node app"
+                },
+                "author": "",
+                "license": "ISC"
+            }
+            在下方Terminal窗口中输入npm start（npm xxx，xxx是scripts中的属性名）进行启动
+
         <div title="2.Browserify：浏览器端 也称为js的打包工具">
             <div title="定义暴露模块：exports">
                 exports.xxx=value
