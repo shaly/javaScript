@@ -77,8 +77,68 @@
         require方法无法在浏览器端运行，只能在服务器端安装node.js运行
             比如：node app启动时可以获取到值
                  但在index.html引入app.js后运行时却报错“require未定义”
-
-
+        解决浏览器无法运行require的方法：
+            1.安装：
+                *在Terminal窗口中输入：cnpm install -g browserify
+                    如果提示“'cnpm' 不是内部或外部命令，也不是可运行的程序或批处理文件。”
+                    那么打开cmd进行安装cnpm，在cmd窗口中输入：npm install -g cnpm --registry=https://registry.npm.taobao.org
+                    然后通过:cnpm -v 来查看是否安装成功（如果有版本信息就是安装成功）
+                    然后再执行cnpm install -g browserify
+                *然后再打开发环境的引用包（dev是开发环境）：cnpm install --save-dev browserify
+                    此时package.json会有变化，由：
+                    {
+                        "name": "browserify",
+                        "version": "1.0.0",
+                        "description": "",
+                        "main": "app.js",
+                        "scripts": {
+                        "test": "echo \"Error: no test specified\" && exit 1"
+                        },
+                        "author": "",
+                        "license": "ISC"
+                    }
+                    变为：
+                    {
+                        "name": "browserify",
+                        "version": "1.0.0",
+                        "description": "",
+                        "main": "js/src/app.js",
+                        "scripts": {
+                        "test": "echo \"Error: no test specified\" && exit 1"
+                        },
+                        "author": "",
+                        "license": "ISC",
+                        "devDependencies": {
+                            "browserify": "^16.2.3"
+                        }
+                    }
+                    末端多了一个写入"devDependencies"，这个是开发时依赖（开发的时候引用，生产不引用）
+                如果在Terminal中再输入cnpm install --save uniq
+                    此时package.json会变成：
+                    {
+                        "name": "browserify",
+                        "version": "1.0.0",
+                        "description": "",
+                        "main": "js/src/app.js",
+                        "scripts": {
+                        "test": "echo \"Error: no test specified\" && exit 1"
+                        },
+                        "author": "",
+                        "license": "ISC",
+                        "devDependencies": {
+                            "browserify": "^16.2.3"
+                        },
+                        "dependencies": {
+                            "uniq": "^1.0.1"
+                        }
+                    }
+                    多了一个dependencies，这个就是运行时依赖，只要运行就会引用
+                2.编译基于cmd模式导入导出
+                    browserify js/src/app.js -o js/dist/bundle.js
+                3.总结：
+                    基于：cmd模式的代码
+                    导出：exports.xxx=value;和module.exports=value;
+                    导入：var module=require("模块路径");
 
 
         <div title="3.IIFE模式/增强：">
