@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48ad527e-bf8d-417c-899b-e0b3a9443d13" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/d_chapter06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/d_chapter06/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_commonJS01/browserify/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_commonJS01/browserify/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_commonJS01/browserify/module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_commonJS01/browserify/module2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记.html" beforeDir="false" afterPath="$PROJECT_DIR$/笔记.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,58 +21,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d_chapter06/js/a.js">
+        <entry file="file://$PROJECT_DIR$/d_chapter06/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+            <state relative-caret-position="391">
+              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e_commonJS01/browserify/module.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e_commonJS01/browserify/module2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e_commonJS01/browserify/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/d_chapter06/index.html">
+        <entry file="file://$PROJECT_DIR$/笔记.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            <state relative-caret-position="463">
+              <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/app.js">
+        <entry file="file://$PROJECT_DIR$/e_commonJS01/browserify/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/module3.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="2" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/module4.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d_chapter06/js/common.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1518">
-              <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="161">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -94,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/d_chapter02/commonjs/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
-              <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -126,10 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index1.html" />
-        <option value="$PROJECT_DIR$/js/login.js" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/c.js" />
         <option value="$PROJECT_DIR$/js/a.js" />
         <option value="$PROJECT_DIR$/js/b.js" />
         <option value="$PROJECT_DIR$/d_chapter01/function/js/course.js" />
@@ -168,7 +166,6 @@
         <option value="$PROJECT_DIR$/d_chapter02/commonjs/module2.js" />
         <option value="$PROJECT_DIR$/d_chapter02/commonjs/module3.js" />
         <option value="$PROJECT_DIR$/e_commonJS01/commonjs/package.json" />
-        <option value="$PROJECT_DIR$/笔记.html" />
         <option value="$PROJECT_DIR$/e_commonJS01/commonjs/module.js" />
         <option value="$PROJECT_DIR$/e_commonJS01/commonjs/module2.js" />
         <option value="$PROJECT_DIR$/d_chapter06/js/a.js" />
@@ -177,6 +174,11 @@
         <option value="$PROJECT_DIR$/e_commonJS01/commonjs/module4.js" />
         <option value="$PROJECT_DIR$/e_commonJS01/commonjs/app.js" />
         <option value="$PROJECT_DIR$/d_chapter06/index.html" />
+        <option value="$PROJECT_DIR$/e_commonJS01/browserify/module2.js" />
+        <option value="$PROJECT_DIR$/e_commonJS01/browserify/module.js" />
+        <option value="$PROJECT_DIR$/e_commonJS01/browserify/index.html" />
+        <option value="$PROJECT_DIR$/e_commonJS01/browserify/app.js" />
+        <option value="$PROJECT_DIR$/笔记.html" />
       </list>
     </option>
   </component>
@@ -215,12 +217,6 @@
               <item name="001baseInfo" type="462c0819:PsiDirectoryNode" />
               <item name="e_commonJS01" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="001baseInfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="001baseInfo" type="462c0819:PsiDirectoryNode" />
-              <item name="e_commonJS01" type="462c0819:PsiDirectoryNode" />
-              <item name="commonjs" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -236,15 +232,15 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo" />
-      <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\d_chapter01" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\e_commonJS01\browserify" />
       <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\e_commonJS01\commonjs" />
       <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo" />
       <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\d_chapter02\commonjs" />
       <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\d_chapter05\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo" />
       <recent name="D:\SOFT_STUDY\WebStormRumtime\001baseInfo\d_chapter01" />
     </key>
   </component>
@@ -260,14 +256,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (3)">
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/001baseInfo/d_chapter04/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.index.html (4)">
     <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/001baseInfo/d_chapter05/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/001baseInfo/d_chapter06/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/001baseInfo/e_commonJS01/browserify/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/001baseInfo/d_chapter01/IIFE模式(闭包)/index.html" useBuiltInWebServerPort="true">
@@ -278,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (4)" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="Node.js.common.js" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -304,12 +300,13 @@
       <workItem from="1552911705291" duration="11530000" />
       <workItem from="1553086246531" duration="591000" />
       <workItem from="1553600455182" duration="1152000" />
-      <workItem from="1553601628608" duration="9364000" />
+      <workItem from="1553601628608" duration="9506000" />
+      <workItem from="1553695278768" duration="699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41820000" />
+    <option name="totallyTimeSpent" value="42661000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -324,7 +321,7 @@
     <frame x="2" y="0" width="1058" height="1046" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28359684" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22035573" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -347,28 +344,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/d_chapter02/function/js/course.js" />
-    <entry file="file://$PROJECT_DIR$/d_chapter02/function/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d_chapter02/function/js/b.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d_chapter02/function/js/c.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/d_chapter02/function/js/a.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -461,12 +436,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/e_commonJS01/笔记">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔记">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/e_commonJS01/笔记" />
+    <entry file="file://$PROJECT_DIR$/笔记" />
     <entry file="file://$PROJECT_DIR$/d_chapter01/function函数式编程/js/course.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -551,16 +522,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/笔记.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="58" column="29" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json" />
     <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -613,13 +575,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d_chapter05/js/common.js">
+    <entry file="file://$PROJECT_DIR$/d_chapter06/js/a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/module3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/module4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d_chapter06/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1495">
+          <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d_chapter02/commonjs/module2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
         </state>
       </provider>
     </entry>
@@ -633,59 +630,59 @@
     <entry file="file://$PROJECT_DIR$/d_chapter02/commonjs/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
-          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d_chapter02/commonjs/module2.js">
+    <entry file="file://$PROJECT_DIR$/d_chapter05/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d_chapter06/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1518">
-          <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+        <state relative-caret-position="115">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/module3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/module4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/e_commonJS01/commonjs/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d_chapter06/js/a.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/d_chapter06/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        <state relative-caret-position="391">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e_commonJS01/browserify/module2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e_commonJS01/browserify/module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e_commonJS01/browserify/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e_commonJS01/browserify/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
         </state>
       </provider>
     </entry>
