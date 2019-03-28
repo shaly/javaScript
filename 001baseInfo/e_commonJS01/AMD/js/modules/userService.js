@@ -1,6 +1,7 @@
 
 
-define(["util"],function (utilModule) {
+define(["util","jquery"],function (utilModule,$) {
+    $("body").css("background","red");
     const name="用户模块";
 
     function searchUser() {
