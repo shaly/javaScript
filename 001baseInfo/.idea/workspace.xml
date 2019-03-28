@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48ad527e-bf8d-417c-899b-e0b3a9443d13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/e_commonJS01/AMD/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e_commonJS01/AMD/js/lib/require.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e_commonJS01/AMD/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e_commonJS01/AMD/js/modules/userService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e_commonJS01/AMD/js/modules/util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记.html" beforeDir="false" afterPath="$PROJECT_DIR$/笔记.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e_commonJS01/AMD/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/e_commonJS01/AMD/js/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,20 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/笔记.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
+            <state relative-caret-position="698">
               <caret line="155" column="29" selection-start-line="155" selection-start-column="29" selection-end-line="155" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/e_commonJS01/AMD/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
-              <caret line="16" column="11" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="11" />
+              <caret line="16" column="75" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -110,10 +104,10 @@
         <option value="$PROJECT_DIR$/d_chapter07/js/c.js" />
         <option value="$PROJECT_DIR$/d_chapter07/js/b.js" />
         <option value="$PROJECT_DIR$/e_commonJS01/AMD/index.html" />
-        <option value="$PROJECT_DIR$/e_commonJS01/AMD/js/main.js" />
         <option value="$PROJECT_DIR$/e_commonJS01/AMD/js/modules/userService.js" />
         <option value="$PROJECT_DIR$/e_commonJS01/AMD/js/modules/util.js" />
         <option value="$PROJECT_DIR$/笔记.html" />
+        <option value="$PROJECT_DIR$/e_commonJS01/AMD/js/main.js" />
       </list>
     </option>
   </component>
@@ -258,12 +252,20 @@
       <workItem from="1553600455182" duration="1152000" />
       <workItem from="1553601628608" duration="9506000" />
       <workItem from="1553695278768" duration="5454000" />
-      <workItem from="1553779187130" duration="3920000" />
+      <workItem from="1553779187130" duration="4682000" />
     </task>
+    <task id="LOCAL-00001" summary="AMD模式简例">
+      <created>1553785316202</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553785316202</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51336000" />
+    <option name="totallyTimeSpent" value="52098000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -278,7 +280,7 @@
     <frame x="2" y="0" width="1058" height="1046" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27470356" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27470356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -290,7 +292,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32993197" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32993197" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32993197" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.21768707" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -309,6 +311,10 @@
         <option value="1" />
       </list>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AMD模式简例" />
+    <option name="LAST_COMMIT_MESSAGE" value="AMD模式简例" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/d_chapter02/commonjs/module.js">
@@ -647,17 +653,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/e_commonJS01/AMD/js/main.js">
+    <entry file="file://$PROJECT_DIR$/笔记.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="11" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="11" />
+        <state relative-caret-position="698">
+          <caret line="155" column="29" selection-start-line="155" selection-start-column="29" selection-end-line="155" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/笔记.html">
+    <entry file="file://$PROJECT_DIR$/e_commonJS01/AMD/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="155" column="29" selection-start-line="155" selection-start-column="29" selection-end-line="155" selection-end-column="29" />
+        <state relative-caret-position="368">
+          <caret line="16" column="75" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
         </state>
       </provider>
     </entry>
