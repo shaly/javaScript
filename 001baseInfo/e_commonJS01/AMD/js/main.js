@@ -10,7 +10,13 @@
         paths:{
             "util":"modules/util",//注意：不要写成modules/util.js
             "uService":"modules/userService",//uService可以自定义标识名字，require引用时就得引用这个定义的标识名字
-            "jquery":"lib/jquery"//注意：jquery的标识名jquery已经自定义指定为jquery了，不能更改
+            "jquery":"lib/jquery",//注意：jquery的标识名jquery已经自定义指定为jquery了，不能更改
+
+            //"angular":"lib/angular"//注意：angular是无法这样导出的，因为angular没有像jquery那样define模块的输入定义
+            "angular":"lib/angular"//因此angular的导出需要依靠shim加上exports进行输出
+        },
+        shim:{
+            angular:{exports:"angular"}
         }
     })
 
@@ -30,5 +36,8 @@
     })
 
 
+    require(["angular"],function (angular) {//引入时的参数是按顺序对应的，变量名自定义
+       console.log(angular);
+    })
 
 })()
