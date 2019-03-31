@@ -9,11 +9,34 @@
 <script type="module">
     import {username,age,sayHello} from "./js/src/module.js";
     console.log(username,age);
-
-    //名字可以自定义
-    import forDate from "./js/src/module2.js";
-    forDate(new Date());
     sayHello();
+    import * as mod from "./js/src/module1.js";
+    mod.sayHello();
+    console.log(mod.username,mod.age);
+
+
+    import * as mod11 from "./js/src/module1_1.js";
+    mod11.sayHello11();
+    console.log(username,age);
+
+    //默认导出的名字可以自定义
+    import forDate from "./js/src/module2.js";
+    var fdata=forDate(new Date());
+    console.log("fdata="+fdata);
+
+
+    import forDate3 from "./js/src/module2_2.js";
+    console.log("格式化当前时间");
+    console.log("todate="+forDate3.todate(new Date()));
+    console.log("名字为："+forDate3.username);
+
+
+    import getDefaultName,{sessionName,cookiname,getName1} from "./js/src/module3.js";
+    getDefaultName();
+    console.log(sessionName,cookiname);
+    getName1();
+
+
 </script>
 </body>
 
