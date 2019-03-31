@@ -155,6 +155,20 @@
                 main.js：测试案例
                 index.html：页面
         </div>
+        <div title="5.CMD模式">
+            //require是用来依赖其他模块，变量名可自定义
+            //exports和module都是用来导出自身模块，变量名可自定义
+
+
+            //CMD引入jquery,需要在jquery.js中添加代码
+                if(define){
+                    define(function () {
+                        //jquery代码
+                        return $.noConflict();
+                    })
+                }
+            不然sea无法识别jquery
+        </div>
     </div>
 
 </div>
